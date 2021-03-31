@@ -1,5 +1,5 @@
 homepage: "https://www.sovendus.de"
 documentation: "https://www.sovendus.de/documentation"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: 9ae4ebc94ed8b487b97256b1428e22e45ca06e7b
     changeNotes: Initial release.
