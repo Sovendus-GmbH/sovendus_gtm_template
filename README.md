@@ -30,6 +30,6 @@ You can check with navigation to the respective page and see if our product is l
 
 IMPORTANT: 
 - Do not use the same IDs on different pages; each use case has its own set of IDs.
-- Contact Sovendus once you finalized the integration so we can adjsut everything else from our side. 
+- Contact Sovendus once you finalized the integration so we can adjust everything else from our side. 
 
 For more information on security, functionality and other topics please reach out to your contact at Sovendus.
