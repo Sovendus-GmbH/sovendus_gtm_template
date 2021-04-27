@@ -222,7 +222,7 @@ ___TEMPLATE_PARAMETERS___
     "name": "consumerSalutation",
     "displayName": "consumerSalutation",
     "simpleValueType": true,
-    "help": "This is needed in order to match the gender to appropriate offers and is also used to pre-fill the input forms.",
+    "help": "This is used to show the best performing offers and is also to pre-fill the input forms.",
     "canBeEmptyString": true
   },
   {
