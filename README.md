@@ -17,6 +17,8 @@ Here you'll find a list with a description on all parameters possible but be awa
 The teplate itself will also give you a detailed info on what we expect for what parameter.
 In case you cannot supply a value and it is not required as a basic parameter supply it as an empty string and not a null value.
 
+The Sovendus integration needs an DIV container so it knows where to load the product. You can either enter an existing DIV in the parameter iFrameContainerId and the template will include an iFrame in here of add a new DIV to your page (for example to get more options for configuration via css).
+
 ![image](https://user-images.githubusercontent.com/81681270/115351890-059a0880-a1b7-11eb-8307-5de8f7d682c2.png)
 
 Triggers and location:
