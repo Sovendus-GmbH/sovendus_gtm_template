@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "categories": ["CONVERSIONS", "MARKETING", "AFFILIATE_MARKETING","LEAD_GENERATION"],
-  "displayName": "Sovendus Integration",
+  "displayName": "Sovendus Integration for Sales and Select",
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
