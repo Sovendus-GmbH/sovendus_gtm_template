@@ -1,5 +1,7 @@
 homepage: "https://www.sovendus.de"
 documentation: "https://github.com/Sovendus-GmbH/sovendus_gtm_template"
 versions:
+  - sha: 5db1c92df8cccfb4549e14e6f507a5d0ebbf8679
+    changeNotes: Add deprecated warning
   - sha: 9ae4ebc94ed8b487b97256b1428e22e45ca06e7b
     changeNotes: Initial release.
